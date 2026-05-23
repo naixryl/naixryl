@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://img.shields.io/badge/-✧ 1,609%20-1b263b"> <br><br>
+
+
+
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/c3bc16ef-df40-4636-b268-f0d99c27f100" />
 
 
