@@ -1,5 +1,4 @@
-<img width="500" height="232" alt="image" src="https://github.com/user-attachments/assets/5bc54d81-f66a-4352-ab6f-29eb2ddf9081" />
-
+<img width="500" height="282" alt="image" src="https://github.com/user-attachments/assets/97345202-5b4a-4a32-9f3c-58ce65b4508a" />
 
 
  <p align="center"> ♛ </p> <br><br>
